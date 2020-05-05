@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_rzp_name_logo.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable-xxhdpi-v4/rzp_name_logo.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_rzp_poweredby.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable/rzp_poweredby.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_rzp_green_button.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable/rzp_green_button.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_toast_custom.xml.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/fluttertoast/intermediates/packaged_res/debug/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_rzp_magic_base.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/layout/rzp_magic_base.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_rzp_white_border_black_bg.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable/rzp_white_border_black_bg.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xxxhdpi-v4_rzp_logo.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable-xxxhdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_toast_bg.xml.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/fluttertoast/intermediates/packaged_res/debug/drawable/toast_bg.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_rzp_logo.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable-xhdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_rzp_loader.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/layout/rzp_loader.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_rzp_logo.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable-mdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/raw_rzp_config.json.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/raw/rzp_config.json"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout_activity_razorpay.xml.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/razorpay_plugin/intermediates/packaged_res/debug/layout/activity_razorpay.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_rzp_secured_by_bg.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable/rzp_secured_by_bg.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_rzp_loader_circle.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable/rzp_loader_circle.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-hdpi-v4_rzp_logo.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable-hdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xxhdpi-v4_rzp_logo.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable-xxhdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/0a271e99b6771ad4a84318244d532fb7/core-1.0.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_rzp_border.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable/rzp_border.xml"
+    },
+    {
+        "merged": "/Users/sagar.chavan/Documents/FlutterProjects/razorpay_payment/build/app/intermediates/res/merged/debug/drawable_rzp_border_bottom.xml.flat",
+        "source": "/Users/sagar.chavan/.gradle/caches/transforms-2/files-2.1/3919d2c3181c328c1fd5ba8fd23fd224/checkout-1.5.2/res/drawable/rzp_border_bottom.xml"
+    }
+]

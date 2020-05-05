@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android/fluttertoast.iml" filepath="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/fluttertoast-4.0.1/android/fluttertoast.iml" />
+      <module fileurl="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/razorpay_plugin-0.3.0/android/razorpay_plugin.iml" filepath="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/razorpay_plugin-0.3.0/android/razorpay_plugin.iml" />
+    </modules>
+  </component>
+</project>
